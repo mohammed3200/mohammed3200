@@ -55,12 +55,6 @@ I'm very proficient in JS/TS, React, and React Native.
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 <!-- Add other tech stack badges similarly -->
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohammed3200&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed3200&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed3200&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohammed3200&theme=synthwave&no-frame=true&no-bg=false&margin-w=4)
 
@@ -69,5 +63,13 @@ I'm very proficient in JS/TS, React, and React Native.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammed3200&icon=10&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mohammed3200&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed3200&theme=dark&hide_border=false)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed3200&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
