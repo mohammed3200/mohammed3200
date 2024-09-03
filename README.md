@@ -8,6 +8,11 @@ I'm very proficient in JS/TS, React, and React Native.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/mohammed-bala](https://www.linkedin.com/in/mohammed-bala-2b100228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Glitch404)
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mohammed3200&theme=monokai&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed3200&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed3200&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
 ## 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -63,13 +68,6 @@ I'm very proficient in JS/TS, React, and React Native.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammed3200&icon=10&color=0)](https://visitcount.itsvg.in)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohammed3200&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed3200&theme=dark&hide_border=false)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed3200&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
