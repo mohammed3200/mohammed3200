@@ -9,7 +9,8 @@ I'm very proficient in JS/TS, React, and React Native.
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Glitch404)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohammed3200&theme=monokai&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed3200&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed3200&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohammed3200&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed3200&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
