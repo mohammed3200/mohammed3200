@@ -1,6 +1,5 @@
 # 💫 About Me
-I'm currently learning Golang and the Git framework.  
-I'm very proficient in JS/TS, React, and React Native.
+I don't know what's going on but I'll run with it
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/glitch4041704) 
